@@ -1,4 +1,5 @@
 # Write Your Own Web Store In Hours
+Trial
 
 ![Cover Image for the Write Your Own Web Store In Hours project](workshop-assets/readme-images/write-your-own-web-store-in-hours-cover-image.png)
 
